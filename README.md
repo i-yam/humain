@@ -3,16 +3,6 @@ HuMaIn: Human-Machine Interaction Workshop
 
 Welcome to the workship on Human-Machine Interaction co-located with [KI-2024](https://www.informatik.uni-wuerzburg.de/ki24/)
 
-Important Dates
-----------------
-
-
-
-
-
-
-
-
 The HuMaIn Workshop at KI-2024 aims to bridge the gap between artificial intelligence (AI) and human-centric disciplines such as the social sciences, psychology, and the humanities. Our objective is to explore and foster advancements in AI that enable software and robots to interact with humans in intuitive, respectful, and engaging ways. By bringing together a multidisciplinary mix of researchers, practitioners, and innovators, we will contribute to the solutions to the task of designing AI systems that enrich human life and society. In an era where AI is increasingly becoming part of everyday life, the need for human-machine interfaces to be safe, friendly, intuitive, and relevant has never been more crucial. HuMaIn will elicit submissions on
 * Ethical design principles for human-AI interaction,
 * Psychological foundations of human-AI interaction,
@@ -25,6 +15,10 @@ The relevance of this workshop lies in its potential to catalyze cross-disciplin
 * Highlighting innovative approaches to human-friendly robot and software interfaces,
 * Encouraging collaborative research efforts across disciplines,
 * Contributing to the roadmap for ethical and effective human-AI interaction.
+
+Important Dates
+----------------
+TBA
 
 Target audience and participation
 ---------------------------------
