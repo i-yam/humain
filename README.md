@@ -32,9 +32,9 @@ Workshop format and activities
 -------------------------------
 
 The workshop is a full-day event that will feature
-* Keynote speeches by two leaders in AI, robotics, and human-centric disciplines, by [Prof. Dr. Barbara Bruno](https://sarai.iar.kit.edu/21_58.php), Karlsruhe Institute of Technology, and by [Dr. Alexei Grinbaum](https://irfu.cea.fr/en/Pisp/alexei.grinbaum/), Centre de recherche CEA Paris-Saclay.
-* A panel discussion on interdisciplinary collaborations and possible future directions for human-machine interaction,
-* Paper presentations with peer feedback sessions,
+* Keynote speeches by two leaders in AI, robotics, and human-centric disciplines, by [Prof. Dr. Barbara Bruno](https://sarai.iar.kit.edu/21_58.php), Karlsruhe Institute of Technology, and by [Dr. Alexei Grinbaum](https://irfu.cea.fr/en/Pisp/alexei.grinbaum/), Centre de recherche CEA Paris-Saclay;
+* A panel discussion on interdisciplinary collaborations and possible future directions for human-machine interaction;
+* Paper presentations with peer feedback sessions;
 * Interactive breakout groups focused on specific themes or challenges.
 
 
@@ -73,7 +73,7 @@ Tentative schedule
 
 15:30 – Break-out group activity on several collaboration tracks: Creativity, political discourse, healthcare, social robotics.
 
-17:00 – Closing keynote 'Not-so-humanoid Socially Assistive Robots' by [Prof. Barbara Bruno](https://sarai.iar.kit.edu/21_58.php), Karlsruhe Institute of Technology and closing remarks.
+17:00 – Closing keynote 'Not-so-humanoid Socially Assistive Robots' by [Prof. Dr. Barbara Bruno](https://sarai.iar.kit.edu/21_58.php), Karlsruhe Institute of Technology and closing remarks.
 
 
 Organizers
