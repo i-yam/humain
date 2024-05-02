@@ -49,7 +49,7 @@ Scientific committee
 
 * [Prof. Dr. Hilke Brockmann](https://hilkebrockmann.eu/), Constructor University Bremen, Professor of sociology,
 * [Eva-Maria Gillich](https://www.uni-bielefeld.de/sfb/sfb1288/projektbereiche/e05/gillich/), University of Bielefeld, Researcher in art history and visual culture studies,
-* [Dr. Jeanine Reutemann] (https://ethz.ch/de/die-eth-zuerich/organisation/abteilungen/lehrentwicklung-und-technologie/mitarbeitende-alphabetisch/person-detail.reutemann.html), Eidgenössische Technische Hochschule Zürich (ETH), Researcher in educational media,
+* [Dr. Jeanine Reutemann](https://ethz.ch/de/die-eth-zuerich/organisation/abteilungen/lehrentwicklung-und-technologie/mitarbeitende-alphabetisch/person-detail.reutemann.html), Eidgenössische Technische Hochschule Zürich (ETH), Researcher in educational media,
 * [Dr. Irina Efimenko](https://semantic-hub.com/about-us), Semantic Hub,  Lausanne, Founder and CEO, Expert on AI in healthcare,
 * [Dr. Matthias Röder](https://matthiasroder.com/), Karajan Institute, Director, Researcher on creativity and AI in music, Salzburg,
 * [Dr. Maria Elena Giannaccini](https://www.abdn.ac.uk/engineering/people/profiles/elena.giannaccini), University of Aberdeen, Lecturer, Researcher in soft robotics, robot sensing, and safe human-robot interaction.
