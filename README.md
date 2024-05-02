@@ -59,21 +59,21 @@ Tentative schedule
 ------------------
 
 
-10:00 & Workshop begins.
+10:00 – Workshop begins.
 
-10:30 & Opening keynote 'Ethics of human-AI interaction' by Dr. Alexei Grinbaum, Centre de recherche CEA Paris-Saclay.
+10:30 – Opening keynote 'Ethics of human-AI interaction' by Dr. Alexei Grinbaum, Centre de recherche CEA Paris-Saclay.
 
-11:30 & Panel discussion on applications of AI solutions for human-machine interaction across the industries: Healthcare, production, art, robotics.
+11:30 – Panel discussion on applications of AI solutions for human-machine interaction across the industries: Healthcare, production, art, robotics.
 
-12:30 & Lunch break.
+12:30 – Lunch break.
 
-13:30 & Poster session.
+13:30 – Poster session.
 
-14:30 & Coffee break.
+14:30 – Coffee break.
 
-15:30 & Break-out group activity on several collaboration tracks: Creativity, political discourse, healthcare, social robotics.
+15:30 – Break-out group activity on several collaboration tracks: Creativity, political discourse, healthcare, social robotics.
 
-17:00 & Closing keynote 'Not-so-humanoid Socially Assistive Robots' by TT-Prof. Barbara Bruno, Karlsruhe Institute of Technology and closing remarks.
+17:00 – Closing keynote 'Not-so-humanoid Socially Assistive Robots' by TT-Prof. Barbara Bruno, Karlsruhe Institute of Technology and closing remarks.
 
 
 Organizers
