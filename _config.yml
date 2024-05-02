@@ -2,6 +2,6 @@ title: HuMaIn
 description: Workshop on Human-Machine Interaction
 show_downloads: false
 google_analytics:
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/cayman
 plugins:
 - jekyll-remote-theme
