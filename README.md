@@ -18,7 +18,10 @@ The relevance of this workshop lies in its potential to catalyze cross-disciplin
 
 Important Dates
 ----------------
-TBA
+* Submission Deadline 1.7.24
+* Notifications: 31.7.24
+* Camera-Ready version of the paeprs: 20.8.24
+* Workshop: 23rd or 24th of September (the exact schedule will be available in June)
 
 Target audience and participation
 ---------------------------------
