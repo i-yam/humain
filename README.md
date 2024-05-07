@@ -6,13 +6,13 @@ Welcome to the workship on Human-Machine Interaction co-located with [KI-2024](h
 
 Login to EasyChair, click on the "new submission" and choose the corresponding Track: Human-Machine Interaction Workshop.
 
-# Paper Formatting
+## Paper Formatting
 
 * Short Paper – up to 4 pages excluding references
 * Long Paper – up to 8 pages excluding references
 * Formatted according to the [Springer LNCS style](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj)
 
-  # Important Dates
+## Important Dates
 * Submission Deadline 01.07.24
 * Notifications: 31.07.24
 * Camera-Ready version: 20.08.24
