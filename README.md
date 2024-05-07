@@ -1,11 +1,9 @@
-HuMaIn: Human-Machine Interaction Workshop
+## TL;DR
 ===========================================
 
 Welcome to the workship on Human-Machine Interaction co-located with [KI-2024](https://www.informatik.uni-wuerzburg.de/ki24/)
 
-
-## TL;DR
-# [Submit your paper]( https://easychair.org/conferences/?conf=ki2024)
+# [Submit Your Paper]( https://easychair.org/conferences/?conf=ki2024)
 
 Login to EasyChair, click on the "new submission" and choose the corresponding Track: Human-Machine Interaction Workshop.
 
