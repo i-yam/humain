@@ -18,9 +18,9 @@ The relevance of this workshop lies in its potential to catalyze cross-disciplin
 
 Important Dates
 ----------------
-* Submission Deadline 1.7.24
-* Notifications: 31.7.24
-* Camera-Ready version of the paeprs: 20.8.24
+* Submission Deadline 01.07.24
+* Notifications: 31.07.24
+* Camera-Ready version: 20.08.24
 * Workshop: 23rd or 24th of September (the exact schedule will be available in June)
 
 Target audience and participation
@@ -44,8 +44,9 @@ The workshop is a full-day event that will feature
 Submission process and criteria
 ---------------------------------
 
-Participants are invited to submit short papers related to the workshop themes. Submissions should contain up to 8 pages of content excluding references and be formatted according to the [Springer LNCS style](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj). Selection criteria will focus on relevance, originality, and potential to spark interdisciplinary dialogue. The journal [Behaviour & Information Technology](https://www.tandfonline.com/journals/tbit20) will publish the selected papers of the workshop in a special issue.
+Participants are invited to papers related to the workshop themes. Submissions should contain up to 8 pages (for full papers) and up to 4 pages (for short papers) of content excluding references and be formatted according to the [Springer LNCS style](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj). Selection criteria will focus on relevance, originality, and potential to spark interdisciplinary dialogue. The journal [Behaviour & Information Technology](https://www.tandfonline.com/journals/tbit20) will publish the selected papers of the workshop in a special issue.
 
+To submit your paper, please use [KI-2024 submission link]( https://easychair.org/conferences/?conf=ki2024), login to EasyChair, click on the "new submission" and choose the corresponding Track: Human-Machine Interaction Workshop.
 
 Scientific committee
 ---------------------
