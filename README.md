@@ -1,4 +1,4 @@
-# Human-Machine Interaction Workshop
+# HuMaIn
 
 # TL;DR
 
