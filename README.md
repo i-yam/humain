@@ -13,7 +13,7 @@ Login to EasyChair, click on 'new submission' and choose the track 'Human-Machin
 * Formatted according to the [Springer LNCS style](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj)
 
 ## Important Dates
-* Submission deadline July 1, 2024
+* Submission deadline: July 1, 2024
 * Notifications: July 31, 2024
 * Camera-ready version: August 20, 2024
 * Workshop: September 23 or 24, 2024 (the exact schedule will be available in June)
