@@ -4,7 +4,7 @@ Workshop on Human-Machine Interaction co-located with [KI-2024](https://www.info
 
 # [Submit Your Paper]( https://easychair.org/conferences/?conf=ki2024)
 
-Login to EasyChair, click on the "new submission" and choose the corresponding Track: Human-Machine Interaction Workshop.
+Login to EasyChair, click on 'new submission' and choose the track 'Human-Machine Interaction Workshop'.
 
 ## Paper Formatting
 
@@ -13,10 +13,10 @@ Login to EasyChair, click on the "new submission" and choose the corresponding T
 * Formatted according to the [Springer LNCS style](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj)
 
 ## Important Dates
-* Submission Deadline 01.07.24
-* Notifications: 31.07.24
-* Camera-Ready version: 20.08.24
-* Workshop: 23rd or 24th of September (the exact schedule will be available in June)
+* Submission deadline July 1, 2024
+* Notifications: July 31, 2024
+* Camera-ready version: August 20, 2024
+* Workshop: September 23 or 24, 2024 (the exact schedule will be available in June)
 
 Aims and Scope
 --------------------
