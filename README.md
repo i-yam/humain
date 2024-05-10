@@ -1,6 +1,6 @@
 # HuMaIn
 
-Workship on Human-Machine Interaction co-located with [KI-2024](https://www.informatik.uni-wuerzburg.de/ki24/)
+Workshop on Human-Machine Interaction co-located with [KI-2024](https://www.informatik.uni-wuerzburg.de/ki24/)
 
 # [Submit Your Paper]( https://easychair.org/conferences/?conf=ki2024)
 
