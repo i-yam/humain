@@ -16,7 +16,7 @@ Login to EasyChair, click on 'new submission' and choose the track 'Human-Machin
 * Submission deadline: July 1, 2024
 * Notifications: July 31, 2024
 * Camera-ready version: August 20, 2024
-* Workshop: September 23 or 24, 2024 (the exact schedule will be available in June)
+* Workshop: September 24, 2024
 
 Aims and Scope
 --------------------
