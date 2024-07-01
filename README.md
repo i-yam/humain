@@ -56,7 +56,7 @@ The workshop is a full-day event that will feature
 Submission process and criteria
 ---------------------------------
 
-Participants are invited to papers related to the workshop themes. Submissions should contain up to 8 pages (for full papers) and up to 4 pages (for short papers) of content excluding references and be formatted according to the [Springer LNCS style](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj). Selection criteria will focus on relevance, originality, and potential to spark interdisciplinary dialogue. The journal [Behaviour & Information Technology](https://www.tandfonline.com/journals/tbit20) will publish the selected papers of the workshop in a special issue.
+Participants are invited to papers related to the workshop themes. Submissions should contain up to 8 pages (for full papers) and up to 4 pages (for short papers) of content excluding references and be formatted according to the [Springer LNCS style](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj). Selection criteria will focus on relevance, originality, and potential to spark interdisciplinary dialogue. 
 
 To submit your paper, please use [KI-2024 submission link]( https://easychair.org/conferences/?conf=ki2024), login to EasyChair, click on the "new submission" and choose the corresponding Track: Human-Machine Interaction Workshop.
 
