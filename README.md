@@ -2,6 +2,25 @@
 
 Workshop on Human-Machine Interaction co-located with [KI-2024](https://www.informatik.uni-wuerzburg.de/ki24/)
 
+
+Workshop schedule. September 24th
+-------------------------------
+
+* 9:00 — Welcome speech from the organizing commettee. Introduction of the workshop participants.
+* 9:30 — Plenary Talk by [Dr. Alexei Grinbaum](https://irfu.cea.fr/en/Pisp/alexei.grinbaum/), Centre de recherche CEA Paris-Saclay.
+* 10:30 — Coffe break
+* 11:00 — Alexei Tikhonov and Dmitry Sinyavin. Machine Apophenia: The Kaleidoscopic Generation of Architectural Images.
+* 11:20 — Sotirios Piliouras, Rob Saunders and Anna Jordanous. Investigating Co-creativity Interaction with AI-Imagery Tools for Ideation.
+* 11:40 — Sergei Shteiner. Custom Poetry: An Experiment
+* 11:50 — Round Table: Creativity, Inspiration and Chance. Dr. Matthias Röder, Dr. Alexei Grinbaum. Moderator: Prof. Dr. Ivan Yamshchikov
+* 12:30 — Lunch
+* 14:00 — Plenary Talk by [Prof. Dr. Jürgen Jost](https://irfu.cea.fr/en/Pisp/alexei.grinbaum/), Max Plank Institute for Mathematics in the Sciences, Leipzig. Computational History: Challenges and Opportunities of Formal Approaches.
+* 14:30 — Break-out sections. Moderators: Prof. Dr. Ivan Yamshchikov, Prof. Dr. Pascal Meißner, Dr. Sharwin Rezagholi.
+* 15:30 — Coffee break
+* 16:00 — Stefan Schiffer, Milena Rothermel, Alexander Ferrein and Astrid Rosenthal-von der Pütten. Look: AI at Work! Analysing Key Aspects of AI-support at the Work Place
+* 16:20 — Plenary Talk [Prof. Dr. Barbara Bruno](https://sarai.iar.kit.edu/21_58.php), Karlsruhe Institute of Technology.
+* 17:20 — Closing remarks by the organizers.
+
 # [Submit Your Paper]( https://easychair.org/conferences/?conf=ki2024)
 
 Login to EasyChair, click on 'new submission' and choose the track 'Human-Machine Interaction Workshop'.
@@ -42,15 +61,6 @@ Target audience and participation
 * AI and robotics practitioners and developers focused on user experience,
 * Policymakers interested in the social implications of AI,
 * Students and early-career researchers looking for cutting-edge research directions.
-
-Workshop format and activities
--------------------------------
-
-The workshop is a full-day event that will feature
-* Keynote speeches by two leaders in AI, robotics, and human-centric disciplines, by [Prof. Dr. Barbara Bruno](https://sarai.iar.kit.edu/21_58.php), Karlsruhe Institute of Technology, and by [Dr. Alexei Grinbaum](https://irfu.cea.fr/en/Pisp/alexei.grinbaum/), Centre de recherche CEA Paris-Saclay;
-* A panel discussion on interdisciplinary collaborations and possible future directions for human-machine interaction;
-* Paper presentations with peer feedback sessions;
-* Interactive breakout groups focused on specific themes or challenges.
 
 
 Submission process and criteria
