@@ -81,27 +81,6 @@ Scientific committee
 * [Dr. Maria Elena Giannaccini](https://www.abdn.ac.uk/engineering/people/profiles/elena.giannaccini), University of Aberdeen, Lecturer, Researcher in soft robotics, robot sensing, and safe human-robot interaction.
 
 
-Tentative schedule
-------------------
-
-
-10:00 – Workshop begins.
-
-10:30 – Opening keynote 'Ethics of human-AI interaction' by [Dr. Alexei Grinbaum](https://irfu.cea.fr/en/Pisp/alexei.grinbaum/), Centre de recherche CEA Paris-Saclay.
-
-11:30 – Panel discussion on applications of AI solutions for human-machine interaction across the industries: Healthcare, production, art, robotics.
-
-12:30 – Lunch break.
-
-13:30 – Poster session.
-
-14:30 – Coffee break.
-
-15:30 – Break-out group activity on several collaboration tracks: Creativity, political discourse, healthcare, social robotics.
-
-17:00 – Closing keynote 'Not-so-humanoid Socially Assistive Robots' by [Prof. Dr. Barbara Bruno](https://sarai.iar.kit.edu/21_58.php), Karlsruhe Institute of Technology and closing remarks.
-
-
 Organizers
 -----------
 
