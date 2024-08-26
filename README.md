@@ -14,11 +14,11 @@ Workshop schedule. September 24th
 * 11:40 — Sergei Shteiner. Custom Poetry: An Experiment
 * 11:50 — Round Table: Creativity, Inspiration and Chance. Dr. Matthias Röder, Dr. Alexei Grinbaum. Moderator: Prof. Dr. Ivan Yamshchikov
 * 12:30 — Lunch
-* 14:00 — Plenary Talk by [Prof. Dr. Jürgen Jost](https://irfu.cea.fr/en/Pisp/alexei.grinbaum/), Max Plank Institute for Mathematics in the Sciences, Leipzig. Computational History: Challenges and Opportunities of Formal Approaches.
+* 14:00 — "Computational History: Challenges and Opportunities of Formal Approaches". Plenary Talk by [Prof. Dr. Jürgen Jost](https://irfu.cea.fr/en/Pisp/alexei.grinbaum/), Max Plank Institute for Mathematics in the Sciences, Leipzig.
 * 14:30 — Break-out sections. Moderators: Prof. Dr. Ivan Yamshchikov, Prof. Dr. Pascal Meißner, Dr. Sharwin Rezagholi.
 * 15:30 — Coffee break
 * 16:00 — Stefan Schiffer, Milena Rothermel, Alexander Ferrein and Astrid Rosenthal-von der Pütten. Look: AI at Work! Analysing Key Aspects of AI-support at the Work Place
-* 16:20 — Plenary Talk [Prof. Dr. Barbara Bruno](https://sarai.iar.kit.edu/21_58.php), Karlsruhe Institute of Technology.
+* 16:20 — "Not-so-humanoid Socially Assistive Robots” Plenary Talk by [Prof. Dr. Barbara Bruno](https://sarai.iar.kit.edu/21_58.php), Karlsruhe Institute of Technology. 
 * 17:20 — Closing remarks by the organizers.
 
 # [Submit Your Paper]( https://easychair.org/conferences/?conf=ki2024)
