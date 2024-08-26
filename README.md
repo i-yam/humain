@@ -7,18 +7,18 @@ Workshop schedule. September 24th
 -------------------------------
 
 * 9:00 — Welcome speech from the organizing commettee. Introduction of the workshop participants.
-* 9:30 — Plenary Talk by [Dr. Alexei Grinbaum](https://irfu.cea.fr/en/Pisp/alexei.grinbaum/), Centre de recherche CEA Paris-Saclay.
+* 9:30 — Plenary Talk by [Alexei Grinbaum](https://irfu.cea.fr/en/Pisp/alexei.grinbaum/), Centre de recherche CEA Paris-Saclay.
 * 10:30 — Coffe break
 * 11:00 — Alexei Tikhonov and Dmitry Sinyavin. Machine Apophenia: The Kaleidoscopic Generation of Architectural Images.
 * 11:20 — Sotirios Piliouras, Rob Saunders and Anna Jordanous. Investigating Co-creativity Interaction with AI-Imagery Tools for Ideation.
 * 11:40 — Sergei Shteiner. Custom Poetry: An Experiment
-* 11:50 — Round Table: Creativity, Inspiration and Chance. Dr. Matthias Röder, Dr. Alexei Grinbaum. Moderator: Prof. Dr. Ivan Yamshchikov
+* 11:50 — Round Table: Creativity, Inspiration and Chance. Matthias Röder, Alexei Grinbaum. Moderator: Ivan Yamshchikov
 * 12:30 — Lunch
-* 14:00 — "Computational History: Challenges and Opportunities of Formal Approaches". Plenary Talk by [Prof. Dr. Jürgen Jost](https://irfu.cea.fr/en/Pisp/alexei.grinbaum/), Max Plank Institute for Mathematics in the Sciences, Leipzig.
-* 14:30 — Break-out sections. Moderators: Prof. Dr. Ivan Yamshchikov, Prof. Dr. Pascal Meißner, Dr. Sharwin Rezagholi.
+* 14:00 — "Computational History: Challenges and Opportunities of Formal Approaches". Plenary Talk by [Jürgen Jost](https://irfu.cea.fr/en/Pisp/alexei.grinbaum/), Max Plank Institute for Mathematics in the Sciences, Leipzig.
+* 14:30 — Break-out sections. Moderators: Ivan Yamshchikov, Pascal Meißner, Sharwin Rezagholi.
 * 15:30 — Coffee break
 * 16:00 — Stefan Schiffer, Milena Rothermel, Alexander Ferrein and Astrid Rosenthal-von der Pütten. Look: AI at Work! Analysing Key Aspects of AI-support at the Work Place
-* 16:20 — "Not-so-humanoid Socially Assistive Robots” Plenary Talk by [Prof. Dr. Barbara Bruno](https://sarai.iar.kit.edu/21_58.php), Karlsruhe Institute of Technology. 
+* 16:20 — "Not-so-humanoid Socially Assistive Robots” Plenary Talk by [Barbara Bruno](https://sarai.iar.kit.edu/21_58.php), Karlsruhe Institute of Technology. 
 * 17:20 — Closing remarks by the organizers.
 
 # [Submit Your Paper]( https://easychair.org/conferences/?conf=ki2024)
