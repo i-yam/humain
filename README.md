@@ -6,8 +6,8 @@ Workshop on Human-Machine Interaction co-located with [KI-2024](https://www.info
 Workshop schedule. September 24th
 -------------------------------
 
-* 9:00 — Welcome speech from the organizing commettee. Introduction of the workshop participants.
-* 9:30 — "The Number Became Word: Artificial Intelligence and Western Thought". Plenary Talk by [Alexei Grinbaum](https://irfu.cea.fr/en/Pisp/alexei.grinbaum/), Centre de recherche CEA Paris-Saclay.
+* 9:30 — Welcome speech from the organizing commettee. Introduction of the workshop participants.
+* 9:35 — "The Number Became Word: Artificial Intelligence and Western Thought". Plenary Talk by [Alexei Grinbaum](https://irfu.cea.fr/en/Pisp/alexei.grinbaum/), Centre de recherche CEA Paris-Saclay.
 * 10:30 — Coffe break
 * 11:00 — Alexei Tikhonov and Dmitry Sinyavin. Machine Apophenia: The Kaleidoscopic Generation of Architectural Images.
 * 11:20 — Sotirios Piliouras, Rob Saunders and Anna Jordanous. Investigating Co-creativity Interaction with AI-Imagery Tools for Ideation.
