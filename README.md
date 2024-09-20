@@ -2,6 +2,9 @@
 
 Workshop on Human-Machine Interaction co-located with [KI-2024](https://www.informatik.uni-wuerzburg.de/ki24/)
 
+University of Würzburg, Physics Building, Seminarraum 10.
+
+![Map]([http://url/to/img.png](https://github.com/i-yam/humain/blob/main/mapSeminar10.png))
 
 Workshop schedule. September 24th
 -------------------------------
